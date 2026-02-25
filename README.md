@@ -11,6 +11,8 @@ Reference plugin for the [armips assembler](https://github.com/Kingcom/armips) â
 | armips-mips | MIPS instruction sets: R3000, R4000, Allegrex, RSP, EmotionEngine |
 | armips-arm | ARM instruction sets: ARM7/ARM9 + THUMB mode |
 | armips-workflows | Practical ROM hacking workflows: patching, text hacking, symbol integration |
+| armips-project-structure | Recommended ASM project layout, naming conventions, patching patterns |
+| armips-project-scaffold | Interactive project scaffold generator for new armips projects |
 
 ## Installation
 
