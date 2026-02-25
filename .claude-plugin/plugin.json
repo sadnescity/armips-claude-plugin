@@ -1,0 +1,8 @@
+{
+  "name": "armips",
+  "description": "armips assembler reference for Claude Code: MIPS and ARM instruction sets, assembler directives, expressions, macros, and ROM hacking workflows.",
+  "version": "1.0.0",
+  "author": { "name": "brisma" },
+  "homepage": "https://github.com/Kingcom/armips",
+  "license": "MIT"
+}
