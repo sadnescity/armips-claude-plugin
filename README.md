@@ -17,8 +17,8 @@ Reference plugin for the [armips assembler](https://github.com/Kingcom/armips) â
 ## Installation
 
 ```
-/plugin marketplace add brisma/claude-plugins
-/plugin install armips@brisma-plugins
+/plugin marketplace add sadnescity/claude-plugins
+/plugin install armips@sadnescity-plugins
 ```
 
 ## Supported Architectures
